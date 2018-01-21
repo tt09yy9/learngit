@@ -1,2 +1,2 @@
 This is a new file.
-I use it to learn git.
+I use it to learn git & test.
